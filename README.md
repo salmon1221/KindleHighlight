@@ -7,8 +7,14 @@ https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a
 https://gist.github.com/oanhnn/80a89405ab9023894df7
 username in git: git@github-salmon 
 
+How to commit: 
+https://github.com/git-guides/git-commit
 
 How to push: 
 https://docs.github.com/en/get-started/using-git/pushing-commits-to-a-remote-repository
 
-test
+Set multiple variables in Mac automator: 
+https://stackoverflow.com/questions/4663982/automator-variable-in-shell-script
+https://support.apple.com/guide/automator/add-variables-to-a-workflow-atmtr27896/2.10/mac/14.0
+
+08072024
