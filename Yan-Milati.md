@@ -3,7 +3,7 @@ kindle-sync:
   bookId: '64389'
   title: 'Milati: 米拉蒂 (Traditional_chinese Edition)'
   author: 'Yan, Geling'
-  highlightsCount: 11
+  highlightsCount: 1
 ---
 # Milati
 ## Metadata
@@ -41,5 +41,9 @@ kindle-sync:
 
 ---
 房子大了，哪個旮旯都可以做計時旅店，哪一團昏暗裡都能進行一次短暫私奔。 — location: [1171]() ^ref-21644
+
+---
+
+幾個回合，米瀟明白，有些事是只能發生，不可以寫下來。比如導致孩子出生那件人類大好事，斷然不讓你寫，但絕對讓你天天夜夜發生，到處發生，一場文革芸芸眾生沒球好事幹，就這一件好事，十年把人口乾上去一倍。 — location: [1348]() ^ref-60874
 
 ---
