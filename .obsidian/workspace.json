@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7a7ee937938723ff",
+        "id": "8f2b34d87d747488",
         "type": "tabs",
         "children": [
           {
-            "id": "f8bd0e3a78121a4c",
+            "id": "f781077dfab67ef7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "[日]上野千鹤子(著)-厌女：日本的女性嫌恶,王兰).md",
+                "file": "Simmons-Odd Girl Out.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Simmons-Odd Girl Out"
             }
           }
         ]
@@ -38,8 +40,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +69,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "[日]上野千鹤子(著)-厌女：日本的女性嫌恶,王兰).md",
+                "file": "Simmons-Odd Girl Out.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +102,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Simmons-Odd Girl Out"
             }
           },
           {
@@ -102,10 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "[日]上野千鹤子(著)-厌女：日本的女性嫌恶,王兰).md",
+                "file": "Simmons-Odd Girl Out.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Simmons-Odd Girl Out"
             }
           },
           {
@@ -115,8 +128,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "[日]上野千鹤子(著)-厌女：日本的女性嫌恶,王兰).md"
-              }
+                "file": "Simmons-Odd Girl Out.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Simmons-Odd Girl Out"
             }
           }
         ]
@@ -147,8 +169,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f8bd0e3a78121a4c",
+  "active": "3ad5851ba68982da",
   "lastOpenFiles": [
+    "van der Kolk-The Body Keeps the Score.md",
+    "Yan-Milati.md",
+    "南怀瑾-静坐修道与长生不老.md",
+    "司汤达-读客经典文库：红与黑（头号青年读物！未删减全两册！社科院翻译家罗新璋定本！译自法国国家图书馆藏.md",
+    "[日]上野千鹤子(著)-厌女：日本的女性嫌恶,王兰).md",
     "【法】司汤达-红与黑.md",
     "Asher-Thirteen Reasons Why.md",
     "Brooks-The Social Animal.md",
@@ -164,11 +191,6 @@
     "README.md",
     "Simmons-Odd Girl Out.md",
     "Salzberg-Real Happiness  a 28-day program to realize the.md",
-    "van der Kolk-The Body Keeps the Score.md",
-    "Yan-Milati.md",
-    "南怀瑾-静坐修道与长生不老.md",
-    "司汤达-读客经典文库：红与黑（头号青年读物！未删减全两册！社科院翻译家罗新璋定本！译自法国国家图书馆藏.md",
-    "[日]上野千鹤子(著)-厌女：日本的女性嫌恶,王兰).md",
     "Rowling-Harry Potter and the Order of the Phoenix.md",
     "Rowling-Harry Potter and the Deathly Hallows.md",
     "Rowling-Harry Potter and the Half-Blood Prince.md",
