@@ -1,9 +1,9 @@
 {
   "amazonRegion": "global",
   "highlightsFolder": "/",
-  "lastSyncMode": "my-clippings",
-  "isLoggedIn": false,
+  "lastSyncMode": "amazon",
+  "isLoggedIn": true,
   "syncOnBoot": false,
   "downloadBookMetadata": true,
-  "lastSyncDate": "2025-02-18T00:40:04.604Z"
+  "lastSyncDate": "2025-05-24T01:07:02.346Z"
 }
