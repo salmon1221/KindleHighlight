@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8f2b34d87d747488",
+        "id": "c854daaf74d466b8",
         "type": "tabs",
         "children": [
           {
-            "id": "f781077dfab67ef7",
+            "id": "a5deb7c562f4c004",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "screenshots/screenshot_2023_12_11T15_16_44-0400.png"
-              },
-              "icon": "lucide-image",
-              "title": "screenshot_2023_12_11T15_16_44-0400"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -158,6 +156,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -167,11 +166,19 @@
       "obsidian-kindle-plugin:Sync your Kindle highlights": false
     }
   },
-  "active": "f781077dfab67ef7",
+  "active": "3ad5851ba68982da",
   "lastOpenFiles": [
-    "screenshots/screenshot_2023_07_27T00_17_23+0800.png",
-    "screenshots/screenshot_2023_07_26T23_07_45+0800.png",
     "[日]上野千鹤子(著)-厌女：日本的女性嫌恶,王兰).md",
+    "screenshots/screenshot_2024_02_16T08_30_38-0500.png",
+    "screenshots/screenshot_2016_09_20T16_27_10+0800.png",
+    "screenshots/screenshot_2016_09_20T14_05_00+0800.png",
+    "screenshots/screenshot_2016_04_14T09_27_07+0800.png",
+    "screenshots/screenshot_2016_04_14T08_48_02+0800.png",
+    "screenshots/screenshot_2016_03_01T20_25_22+0800.png",
+    "screenshots/screenshot_2016_02_29T14_33_01+0800.png",
+    "screenshots/screenshot_2016_02_29T14_28_47+0800.png",
+    "screenshots/screenshot_2016_02_28T08_06_14+0800.png",
+    "screenshots/screenshot_2023_07_27T00_17_23+0800.png",
     "Miller-Bigsby-Death of a Salesman.md",
     "Miller-Death of a Salesman.md",
     "Wolfe-Las Vegas Girl.md",
