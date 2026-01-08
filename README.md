@@ -1,6 +1,7 @@
 Note app: Obsidian. 
 
-Plugin: https://github.com/hadynz/obsidian-kindle-plugin
+Kindle Plugin: https://github.com/hadynz/obsidian-kindle-plugin
+Instapaper Plugin: https://blog.instapaper.com/post/748647273401139200/summaries-custom-article-actions-obsidian
 
 Multiple github accounts through ssh on one device: 
 https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
@@ -17,4 +18,5 @@ Set multiple variables in Mac automator:
 https://stackoverflow.com/questions/4663982/automator-variable-in-shell-script
 https://support.apple.com/guide/automator/add-variables-to-a-workflow-atmtr27896/2.10/mac/14.0
 
-08072024
+
+01072026
