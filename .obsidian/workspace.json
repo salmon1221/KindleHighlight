@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "The Curious Cult of Aldi"
             }
+          },
+          {
+            "id": "98d0a6485af96548",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,8 +183,19 @@
       "obsidian-kindle-plugin:Sync your Kindle highlights": false
     }
   },
-  "active": "a5deb7c562f4c004",
+  "active": "98d0a6485af96548",
   "lastOpenFiles": [
+    "Instapaper Notes/The Murder of The Washington Post.md",
+    "Instapaper Notes/【編輯室報告】音樂、極權與我們的感知力 - 報導者 The Reporter.md",
+    "Instapaper Notes/Why China’s elite tread a perilous path.md",
+    "Instapaper Notes/A city under siege Minneapolis reels after another killing.md",
+    "Instapaper Notes/Why China’s women are having fewer babies.md",
+    "Instapaper Notes/Greenland, America and the end of Atlanticism.md",
+    "Instapaper Notes/Trump’s Head-Scratching Turn Toward China.md",
+    "Instapaper Notes/Scientists identify one fitness habit that may matter most for longevity.md",
+    "Instapaper Notes/生育政策的東亞困局：國家如何治理人口與家庭？.md",
+    "Instapaper Notes/【書摘】《中國模式的終點》：習近平政權菁英階層的自我保護，會被打破嗎？ - 報導者 The Reporter.md",
+    "Instapaper Notes/Donald Trump’s adventurism is unsettling China.md",
     "Instapaper Notes/Donald Trump’s Venezuela action raises threat for China’s oil supplies.md",
     "Instapaper Notes/At JPM, doctors' darling OpenEvidence says it’s pursuing ‘medical super-intelligence’.md",
     "Instapaper Notes/2026 編輯人生備忘錄：你的年度行動清單.md",
@@ -187,21 +211,10 @@
     "Instapaper Notes/How can Europe prevent a Greenland grab.md",
     "Instapaper Notes/委內瑞拉代總統羅德里格斯：務實的談判者，左翼的「扛旗人」.md",
     "Instapaper Notes/四問委內瑞拉石油：美﹑中﹑俄利益將如何大洗牌？.md",
-    "Instapaper Notes/Business school teaching case study Labubu is cute, rare and popular — but is the craze globally sustainable.md",
-    "Instapaper Notes/It’s not just China’s total population that’s falling.md",
-    "Instapaper Notes/語言即將被代碼統一？AI時代的譯者生存錄.md",
-    "Instapaper Notes/This asteroid is spilling secrets about the origin of life on Earth.md",
-    "Instapaper Notes/Obesity drug users will regain weight two years after ending medication, review finds.md",
-    "Instapaper Notes/ADHD drugs work, but not the way experts thought.md",
-    "时雨沢惠一-奇诺之旅-04.md",
-    "时雨沢惠一-奇诺之旅-03.md",
-    "時雨沢惠一-奇诺之旅-01.md",
     "Instapaper Notes",
     "Untitled.base",
     "Untitled 1.base",
-    "Yan-严-Milati.md",
     "Untitled",
-    "Yan-Milati.md",
     "screenshots/screenshot_2016_05_21T22_00_32+0800.png",
     "screenshots/screenshot_2024_02_16T08_30_38-0500.png",
     "screenshots/screenshot_2016_09_20T16_27_10+0800.png",
